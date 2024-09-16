@@ -1,3 +1,3 @@
 # Discussions
 
-~ *The repo to discuss proposed things.*
+**~** *The repo to discuss proposed things.*
